@@ -1,2 +1,2 @@
-# ProductConfig
-Config Server
+property-filename = Default
+property-file-description = DefaultDescription
