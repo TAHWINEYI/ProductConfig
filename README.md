@@ -1,2 +1,2 @@
-property-filename = Default
-property-file-description = DefaultDescription
+property-file.name = Default
+property-file.description = Default Description
